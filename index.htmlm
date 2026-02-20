@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Meu Primeiro Site</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f8ff; /* Azul clarinho de fundo */
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1 {
+      color: #ff69b4; /* Rosa chamativo */
+      font-size: 3em;
+    }
+
+    p {
+      font-size: 1.2em;
+    }
+
+    .caixa {
+      background-color: #ffffff;
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      display: inline-block;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Olá, eu sou a Janeth!</h1>
+  <div class="caixa">
+    <p>Este é o meu primeiro site melhorado.</p>
+    <p>Estou aprendendo HTML, CSS e como criar sites incríveis!</p>
+    <p>Este site já pode ser acessado de qualquer telefone.</p>
+  </div>
+</body>
+</html>
